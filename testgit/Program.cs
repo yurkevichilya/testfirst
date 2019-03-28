@@ -8,6 +8,7 @@ namespace testgit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("test");
+            Console.WriteLine("some text");
         }
     }
 }
